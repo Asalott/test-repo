@@ -11,4 +11,4 @@
 
     - name: Visa en variavle
       debug:
-        msg: "Miljö: {{ enviorment }}"
+        msg: "Miljö: {{ environment }}"
